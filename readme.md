@@ -1,4 +1,4 @@
-# NEXUS ATTACK v1.0 - Advanced "Full Stack" Attack Tool
+# NEXUS ATTACK v1.0 - Advanced Attack Tool
 
 **NEXUS ATTACK** is a modular and powerful DDOS attack script designed to target both the network infrastructure (Layer 4) and the application layer (Layer 7). This tool combines different attack vectors into a single interface, allowing you to perform flexible and effective tests.
 
@@ -10,7 +10,7 @@ Using this script against systems, networks, or websites without permission is i
 
 ## Core Features
 
--   **"Full Stack" Approach:** Capable of launching attacks on both network (L4) and application (L7) layers.
+-   **Multi-Layer Attacks:** Capable of launching attacks on both network (L4) and application (L7) layers.
 -   **Modular Menu:** Easily select the attack layer and method through a user-friendly menu.
 -   **Layer 7 (Application) Attacks:**
     -   **Advanced HTTP Flood:** Smart HTTP requests that mimic real user behavior (random User-Agent, Referer, etc.) and bypass caching mechanisms (cache-busting).
