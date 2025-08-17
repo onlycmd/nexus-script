@@ -1,0 +1,5 @@
+# Add your proxy addresses to this file, one per line.
+# Format: IP:PORT
+# Example:
+# 192.168.1.1:8080
+# 123.45.67.89:3128
