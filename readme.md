@@ -30,7 +30,7 @@ Using this script against systems, networks, or websites without permission is i
 1.  **Clone or download the project:**
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/onlycmd/nexus-script.git
     cd your-project
     ```
 
@@ -96,3 +96,4 @@ If you wish to contribute to the project, please open a pull request. All contri
 ## License
 
 This project is licensed under the MIT License.
+
